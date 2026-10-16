@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://pastefy.app/2eRdp0K5/raw"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/jerryop9999-lgtm/StealAnEgg/refs/heads/main/OLIVER2.lua"))()
 do
     local prev = _G.OxideStealAnEgg
     if prev and type(prev.Unload) == "function" then pcall(prev.Unload) end
